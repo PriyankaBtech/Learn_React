@@ -1,7 +1,11 @@
 
+import Code from './Code'
+
 function App() {
   return (
-    <h1>Happy To Learn React</h1>
+    <>
+    <Code/>
+    </>
   );
 }
 
