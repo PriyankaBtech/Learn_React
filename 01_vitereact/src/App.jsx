@@ -1,4 +1,25 @@
 
+
+import Code from "./code"
+
+
+function App() {
+  const username = "Priyanka"
+
+  return (
+    <>
+    <Code/>
+    <h1>Understand React {username}</h1>
+    <p>with fundamentals</p>
+   </>
+  )
+}
+
+export default App
+
+
+
+/*
 import Code from "./code"
 
 function App() {
@@ -14,3 +35,4 @@ function App() {
 }
 
 export default App
+*/
