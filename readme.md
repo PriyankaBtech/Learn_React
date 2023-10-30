@@ -23,10 +23,16 @@
 ### Description:
 ### Technologies Used:
 
+![Screenshot (782)](https://github.com/PriyankaBtech/Core_JavaScript_Projects/assets/109729930/afaa49e3-0940-431e-8ea6-d588afa3def0)
+
+
 
 ## 4. Password Generator
 ### Description:
 ### Technologies Used:
+
+![Screenshot (783)](https://github.com/PriyankaBtech/Core_JavaScript_Projects/assets/109729930/39e76fdd-af87-4b59-bcd9-f272179d5ea1)
+
 
 
 ## 5. Currency Convertor
