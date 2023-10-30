@@ -4,7 +4,8 @@
 - React allows developers to create dynamic and interactive web applications by efficiently updating and rendering components based on data changes. It provides a structured way to build UI components, making it easier to maintain and scale projects.
 
 ## 1. Counter App
-### Description: A simple application that allows you to increase and decrease a counter with just a click, providing a straightforward demonstration of React state management.
+### Description: 
+A simple application that allows you to increase and decrease a counter with just a click, providing a straightforward demonstration of React state management.
 ### Hook Used: useState
 
 ![Screenshot (776)](https://github.com/PriyankaBtech/TailwindCSS_with_Projects/assets/109729930/45b7130c-385a-4c1f-b9ae-a6e3d92f95a4)
