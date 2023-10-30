@@ -6,11 +6,43 @@
 ## 1. Counter App
 ### Description:
 ### Technologies Used:
-### Description
+
+![Screenshot (776)](https://github.com/PriyankaBtech/TailwindCSS_with_Projects/assets/109729930/45b7130c-385a-4c1f-b9ae-a6e3d92f95a4)
 
 
-## 1. Counter App
+
+## 2. Cart
 ### Description:
 ### Technologies Used:
-### Description
+
+
+## 3. Background Changer
+### Description:
+### Technologies Used:
+
+
+## 4. Password Generator
+### Description:
+### Technologies Used:
+
+
+## 5. Currency Convertor
+### Description:
+### Technologies Used:
+
+
+## 6. Website with different routes
+### Description:
+### Technologies Used:
+
+
+## 7. Context Input
+### Description:
+### Technologies Used:
+
+
+## 8. Theme Switcher
+### Description:
+### Technologies Used:
+
 
