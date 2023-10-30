@@ -15,6 +15,9 @@
 ### Description:
 ### Technologies Used:
 
+![Screenshot (777)](https://github.com/PriyankaBtech/TailwindCSS_with_Projects/assets/109729930/9cd53649-73be-4579-8298-660b7bf38763)
+
+
 
 ## 3. Background Changer
 ### Description:
@@ -30,19 +33,31 @@
 ### Description:
 ### Technologies Used:
 
+![Screenshot (778)](https://github.com/PriyankaBtech/TailwindCSS_with_Projects/assets/109729930/459ec1d2-6b65-4d3e-8deb-f80749832b4d)
+
+
 
 ## 6. Website with different routes
 ### Description:
 ### Technologies Used:
+
+![Screenshot (780)](https://github.com/PriyankaBtech/TailwindCSS_with_Projects/assets/109729930/ceb62c34-3759-4ee2-b0fd-4a80de0a4c06)
+
 
 
 ## 7. Context Input
 ### Description:
 ### Technologies Used:
 
+![Screenshot (779)](https://github.com/PriyankaBtech/TailwindCSS_with_Projects/assets/109729930/1143ab19-d0be-48e4-bf75-b053261d9113)
+
+
 
 ## 8. Theme Switcher
 ### Description:
 ### Technologies Used:
+
+![Screenshot (781)](https://github.com/PriyankaBtech/TailwindCSS_with_Projects/assets/109729930/94900cf4-0006-477d-8fa5-599a7409e033)
+
 
 
